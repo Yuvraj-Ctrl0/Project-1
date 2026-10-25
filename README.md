@@ -1,4 +1,3 @@
-# Project-1
 🏗️ Multimodal Construction Intelligence Platform
 Skill Wallet Capstone Project 1
 An AI-powered Streamlit application that brings site safety auditing, structural defect diagnostics, project valuation and field assistance into one dashboard. It uses Google Gemini for multimodal analysis, runs with zero external database dependencies, and deploys to Streamlit Community Cloud in one click.
@@ -83,7 +82,7 @@ Bill-of-quantities (BOQ) estimator
 Multilingual (Hindi) assistant and alerts
 Live weather API integration
 👤 Author
-Mohammad Anas Chhipa: Skill Wallet Capstone Project 1
+Yuvraj Singh Dodiya: Skill Wallet Capstone Project 1
 
 📄 License
 Released under the MIT License. Add a LICENSE file to your repository if you choose to publish under it.
